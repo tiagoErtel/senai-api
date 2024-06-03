@@ -812,3 +812,4 @@ E:\Exo.WebApi\obj\Debug\net6.0\scopedcss\bundle\Exo.WebApi.styles.css
 E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.Up2Date
 E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 E:\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
